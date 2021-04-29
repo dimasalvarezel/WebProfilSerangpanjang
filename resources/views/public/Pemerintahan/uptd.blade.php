@@ -26,7 +26,7 @@
         <div class="row">
             <div class="col-sm-12 col-md-12 col-lg-8">
                 <div class="">
-                <h1 class="heading__title">UPTD</h1>
+                <h1 class="heading__title">UPTD Serangpanjang</h1>
                     <p style="text-align: left; font-size: 20px">
                         <span style="text-align:center;font-weight:bold;"><h4>- Belum ada data -</h4></span>
                     </p>
