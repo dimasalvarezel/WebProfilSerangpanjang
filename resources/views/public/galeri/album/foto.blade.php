@@ -50,7 +50,7 @@
       <div class="col-sm-12 col-md-12 col-lg-4">
         <aside class="sidebar sidebar-wide">
           <div class="widget widget-posts">
-            <h5 class="widget__title">Artikel Terbaru</h5>
+            <h5 class="widget__title">Artikel terbaru</h5>
             <div class="widget__content">
               <!-- post item -->
               @if(count($article) > 0)
@@ -66,7 +66,7 @@
                   </div><!-- /.widget-post-item -->
                 @endforeach
               @else
-                - Belum ada data -
+                oo
               @endif
             </div><!-- /.widget-content -->
           </div><!-- /.widget-posts -->

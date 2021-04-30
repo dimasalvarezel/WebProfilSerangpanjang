@@ -26,7 +26,7 @@
     <div class="row">
       <div class="col-sm-12 col-md-12 col-lg-8">
         <div class="">
-        <h1 class="heading__title">Sejarah  Serangpanjang</h1>
+        <h1 class="heading__title">Sejarah Kecamatan Serangpanjang</h1>
           <p style="text-align: left; font-size: 20px">
             1. Undang-Undang Nomor  14 Tahun 1950 tentang Pembentukan Daerah-Daerah Kabupaten Dalam Lingkungan Propinsi Djawa Barat.<br>
             2. Undang-Undang Nomor 5 Tahun 2014 tentang Aparatur Sipil Negara.<br>
