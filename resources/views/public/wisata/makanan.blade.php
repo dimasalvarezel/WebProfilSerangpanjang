@@ -22,20 +22,148 @@
 </section><!-- /.page-title -->
 
 <section id="blogGridRightSidebar" class="blog blog-grid pb-60">
-  <div class="container">
-    <div class="row">
-      <div class="col-sm-12 col-md-12 col-lg-8">
-        <div class="">
-          <!-- <h1 class="heading__title">Rumah Makan</h1> -->
-          <p>
-          <!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d126814.05332920709!2d107.54581596829941!3d-6.654462559701624!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69191c0bc706c5%3A0xa98656ae2e127eeb!2sSerangpanjang%2C%20Kabupaten%20Subang%2C%20Jawa%20Barat!5e0!3m2!1sid!2sid!4v1618981027535!5m2!1sid!2sid" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe> -->
-            <iframe frameborder="0" height="500" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d126814.05332920709!2d107.54581596829941!3d-6.654462559701624!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69191c0bc706c5%3A0xa98656ae2e127eeb!2sSerangpanjang%2C%20Kabupaten%20Subang%2C%20Jawa%20Barat!5e0!3m2!1sid!2sid!4v1618981027535!5m2!1sid!2sid" style="border:0" width="100%"></iframe>
-          </p>
-        </div>
-      </div>
+<div class="container-fluid bg-white py-3">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-sm-12">
+                                
+            <div class="row py-2 my-2 mr-2" style="box-shadow: 0 5px 35px 0px rgba(0,0,0,.1);">
+                    <div class="list-content col-md-4 col-sm-4">
+                        <img src="https://igx.4sqi.net/img/general/100x100/9202358_g68kPeNUYwyp0PHE11KmUK9HHuThgruLtmDy-1JBYJo.jpg" class="img-fluid">
+                    </div>
+                    <div class="col-md-8 col-sm-4">
+                        <h5><a href="https://subang.go.id/public/wisata/seni-dan-budaya/sisingaan"
+                                style="text-decoration:none;color:black;">Sate Maranggi Pareang – Kiarapedes</a></h5>
+                                <p>Sate Maranggi Pareang – Kiarapedes ialah Indonesian Restaurant yang terlatak 4.89 KM dari Serangpanjang, Lebih Tepatnya Bertempat di Ds. Kiarapedes Wanayasa Purwakarta Jawa Barat</p>
+                        <small><i
+                                class="fa fa-clock"></i>&nbsp;</small>
+                    </div>
+                </div>
+                                <div class="row py-2 my-2 mr-2" style="box-shadow: 0 5px 35px 0px rgba(0,0,0,.1);">
+                    <div class="list-content col-md-4 col-sm-4">
+                        <img src="https://igx.4sqi.net/img/general/100x100/42530260_7FeksX2HgnBuQ7gSqooPegIzO5hbkKUOQYZc31v4KKc.jpg" class="img-fluid">
+                    </div>
+                    <div class="col-md-8 col-sm-4">
+                        <h5><a href="https://subang.go.id/public/wisata/seni-dan-budaya/sisingaan"
+                                style="text-decoration:none;color:black;">Warung Sate Cijengkol</a></h5>
+                                <p>Warung Sate Cijengkol ialah Asian Restaurant yang terlatak 4.61 KM dari Serangpanjang, Lebih Tepatnya Bertempat di cijengkol Segalaherang Jawa Barat</p>
+                        <small><i
+                                class="fa fa-clock"></i>&nbsp;</small>
+                    </div>
+                    
+                </div>
+                                <div class="row py-2 my-2 mr-2" style="box-shadow: 0 5px 35px 0px rgba(0,0,0,.1);">
+                    <div class="list-content col-md-4 col-sm-4">
+                        <img src="https://igx.4sqi.net/img/general/100x100/65081982_CMatMiZoBt5lw87DsInQ0udE4wxiQMoJwg1AYsnSVIg.jpg" class="img-fluid">
+                    </div>
+                    <div class="col-md-8 col-sm-4">
+                        <h5><a href="https://subang.go.id/public/wisata/seni-dan-budaya/doger-subang"
+                                style="text-decoration:none;color:black;">Sate Maranggi Pareang</a></h5>
+                                <p>Sate Maranggi Pareang ialah Sundanese Restaurant yang terlatak 4.89 KM dari Serangpanjang, Lebih Tepatnya Bertempat di Ds. Kiara Pedes Serangpanjang Subang
 
-    </div><!-- /.row -->
-  </div><!-- /.row -->
+Serangpanjang, Subang Rating : -/10</p>
+                        <small><i
+                                class="fa fa-clock"></i>&nbsp;Selasa, 28 Agustus 2018</small>
+                    </div>
+                </div>
+                                
+                                <div class="row py-3 my-2">
+                    <div class="col-sm-6">
+                        <div id="client-paginator">
+                        <nav>
+        <ul class="pagination">
+            
+                            <li class="page-item disabled" aria-disabled="true" aria-label="&laquo; Previous">
+                    <span class="page-link" aria-hidden="true">&lsaquo;</span>
+                </li>
+            
+            
+                            
+                
+                
+            
+                         
+                </li>
+                    </ul>
+    </nav>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-sm-12">
+                <div class="py-2">
+                    <h4 class="text-black text-left py-3"><span class="vl">&nbsp;BERITA TERKINI</span></h4>
+                                        <div class="row shadow-sm bg-grey py-1">
+                        <div class="side-content col-md-5 col-sm-5">
+                            <img src="https://subang.go.id/public/backend/images/berita/20210503183555.jpg" class="img-fluid">
+                        </div>
+                        <div class="col-md-7 col-sm-7">
+                            <div>
+                                <small><i
+                                        class="fa fa-clock"></i>&nbsp;Senin, 03 Mei 2021</small>
+                                <a href="https://subang.go.id/public/berita/pencanangan-pembangunan-zona-integritas-polres-subang-menuju-wbkwbbm"
+                                    style="text-decoration:none;color:black;">Pencanangan Pembangunan Zona Integritas Polres Subang Menuju WBK/WBBM</a>
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="row shadow-sm bg-grey py-1">
+                        <div class="side-content col-md-5 col-sm-5">
+                            <img src="https://subang.go.id/public/backend/images/berita/20210503184301.jpg" class="img-fluid">
+                        </div>
+                        <div class="col-md-7 col-sm-7">
+                            <div>
+                                <small><i
+                                        class="fa fa-clock"></i>&nbsp;Senin, 03 Mei 2021</small>
+                                <a href="https://subang.go.id/public/berita/wakil-bupati-subang-ikuti-rakor-penegakan-prokes-dan-penanggulangan-covid-19"
+                                    style="text-decoration:none;color:black;">Wakil Bupati Subang Ikuti Rakor Penegakan Prokes dan Penanggulangan Covid-19</a>
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="row shadow-sm bg-grey py-1">
+                        <div class="side-content col-md-5 col-sm-5">
+                            <img src="https://subang.go.id/public/backend/images/berita/20210503141033.jpeg" class="img-fluid">
+                        </div>
+                        <div class="col-md-7 col-sm-7">
+                            <div>
+                                <small><i
+                                        class="fa fa-clock"></i>&nbsp;Senin, 03 Mei 2021</small>
+                                <a href="https://subang.go.id/public/berita/bazar-ramadhan-bentuk-kepedulian-pemerintah-daerah-dalam-menyemarakan-ramadhan"
+                                    style="text-decoration:none;color:black;">Bazar Ramadhan Bentuk Kepedulian Pemerintah Daerah dalam Menyemarakan Ramadhan</a>
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="row shadow-sm bg-grey py-1">
+                        <div class="side-content col-md-5 col-sm-5">
+                            <img src="https://subang.go.id/public/backend/images/berita/20210503122526.jpeg" class="img-fluid">
+                        </div>
+                        <div class="col-md-7 col-sm-7">
+                            <div>
+                                <small><i
+                                        class="fa fa-clock"></i>&nbsp;Senin, 03 Mei 2021</small>
+                                <a href="https://subang.go.id/public/berita/sekda-subang-menghadiri-kegiatan-hari-pendidikan-nasional-tahun-2021"
+                                    style="text-decoration:none;color:black;">Sekda Subang Menghadiri Kegiatan Hari Pendidikan Nasional tahun 2021</a>
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="row shadow-sm bg-grey py-1">
+                        <div class="side-content col-md-5 col-sm-5">
+                            <img src="https://subang.go.id/public/backend/images/berita/20210501192227.jpg" class="img-fluid">
+                        </div>
+                        <div class="col-md-7 col-sm-7">
+                            <div>
+                                <small><i
+                                        class="fa fa-clock"></i>&nbsp;Jumat, 30 April 2021</small>
+                                <a href="https://subang.go.id/public/berita/bupati-subang-resmikan-masjid-jami-as-sadiyah-ciater-subang"
+                                    style="text-decoration:none;color:black;">Bupati Subang Resmikan Masjid Jami As Sa&#039;diyah Ciater Subang</a>
+                            </div>
+                        </div>
+                    </div>
+                                    </div>
+            </div>
+        </div>
+    </div>
+</div>
 </section>
 @endsection
 
