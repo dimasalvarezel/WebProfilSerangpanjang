@@ -9,14 +9,23 @@ use Artisan;
 Route::namespace('Frontend')->group(static function () {
   Route::get('/', 'HomeController@index')->name('public.homepage');
   //Route::get('/profil/{slug}', 'HomeController@profil')->name('public.profile');
+
   Route::get('/profil/unit-kerja', 'HomeController@field')->name('public.field');
-  Route::get('/profil/sejarah', 'HomeController@history')->name('public.history');
-  Route::get('/profil/visimisi', 'HomeController@vision')->name('public.vision');
-  Route::get('/profil/peta', 'HomeController@maps')->name('public.maps');
-  Route::get('/profil/topografi', 'HomeController@topografi')->name('public.topografi');
-  Route::get('/profil/{slug}/pegawai', 'HomeController@staff')->name('public.staff');
-  Route::get('/pemerintahan/profil-desa', 'HomeController@village')->name('public.village');
-  Route::get('/pemerintahan/uptd', 'HomeController@uptd')->name('public.uptd');
+  
+  Route::get('/profil/sejarah', 'HistoryController@index')->name('public.history.list');
+  Route::get('/profil/sejarah/{slug}', 'HistoryController@show')->name('public.history.detail');
+  Route::get('/profil/peta', 'MapsController@index')->name('public.maps.list');
+  Route::get('/profil/peta/{slug}', 'MapsController@show')->name('public.maps.detail');
+  Route::get('/profil/topografi', 'TopographyController@index')->name('public.topography.list');
+  Route::get('/profil/topografi/{slug}', 'TopographyController@show')->name('public.topography.detail');
+  Route::get('/profil/visi-misi', 'VisiController@index')->name('public.visi.list');
+  Route::get('/profil/visi-misi/{slug}', 'VisiController@show')->name('public.visi.detail');
+  
+  Route::get('/pemerintahan/profil-desa', 'DesaController@index')->name('public.desa.list');
+  Route::get('/pemerintahan/profil-desa/{slug}', 'DesaController@show')->name('public.desa.detail');
+  Route::get('/pemerintahan/UPTD', 'UPTDController@index')->name('public.uptd.list');
+  Route::get('/pemerintahan/UPTD/{slug}', 'UPTDController@show')->name('public.uptd.detail');
+  
   Route::get('/wisata/objek-wisata', 'HomeController@vacation')->name('public.objek');
   Route::get('/wisata/budaya-kesenian', 'HomeController@culture')->name('public.culture');
   Route::get('/wisata/sarana-olahraga', 'HomeController@sport')->name('public.olahraga');

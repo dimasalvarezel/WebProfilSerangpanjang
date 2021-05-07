@@ -34,6 +34,7 @@
                     <div class="col-md-8 col-sm-4">
                         <h5><a href="https://www.mangyono.com/2017/07/desa-cijengkol-kecamatan-serang-panjang.html"
                                 style="text-decoration:none;color:black;">Cijengkol, Serangpanjang, Subang</a></h5>
+                            <img src="https://korantangerang.com/wp-content/uploads/2020/08/Dampak-Positif-Bagi-Percepatan-Pengembangan-Pembangunan-Desa-Dari-Karya-TMMD-Ke-108-768x419.jpg" alt="">
                         <small><i
                                 class="fa fa-clock"></i>&nbsp;Desa Cijengkol Kecamatan Serangpanjang Kabupaten subang adalah salah satu desa di daerah selatan subang yang memiliki luas wilayah sebesar 854,45 Ha/m2. Luas wilayah ini dibagi menjadi 4 dusun dengan jumlah Kepala Keluarga sebanyak 1667 (sementara). Batas wilayah Desa Cijengkol sendiri di sebelah barat berbatasan dengan Desa Talagasari, lalu di sebelah Timur berbatasan dengan Desa Dayeuh Kolot, di sebelah selatan sendiri berbatasan dengan Desa Cikujang, dan di sebelah Utara berbatasan dengan Desa Cintamekar.</small>
                     </div>
@@ -58,7 +59,7 @@
 
                 <div class="row py-2 my-2 mr-2" style="box-shadow: 0 5px 35px 0px rgba(0,0,0,.1);">
                     <div class="list-content col-md-4 col-sm-4">
-                        <img src="https://beritatransparansi.co.id/wp-content/uploads/2020/08/IMG-20200805-WA0009.jpg" class="img-fluid">
+                        <img src="https://korantangerang.com/wp-content/uploads/2020/08/Dampak-Positif-Bagi-Percepatan-Pengembangan-Pembangunan-Desa-Dari-Karya-TMMD-Ke-108-768x419.jpg" class="img-fluid">
                     </div>
                     <div class="col-md-8 col-sm-4">
                         <h5><a href="https://www.mangyono.com/2017/07/desa-cintamekar-kecamatan-serang-panjang.html"
