@@ -44,16 +44,16 @@
             <a href="#" data-toggle="dropdown" class="dropdown-toggle nav__item-link {{ Request::routeIs('public.profil')||Request::routeIs('public.field')||Request::routeIs('public.staff') ? 'active' : '' }}">Profil</a>
             <ul class="dropdown-menu">
               <li class="nav__item">
-                <a href="{{route('public.history')}}" class="nav__item-link {{ Request::routeIs('public.history')||Request::routeIs('public.history') ? 'active' : '' }}">Sejarah</a></li>
+                <a href="{{route('public.history.list')}}" class="nav__item-link {{ Request::routeIs('public.history.list')||Request::routeIs('public.history.list') ? 'active' : '' }}">Sejarah</a></li>
               <!-- /.nav-item -->
               <li class="nav__item">
-                <a href="{{route('public.maps')}}" class="nav__item-link {{ Request::routeIs('public.maps')||Request::routeIs('public.maps') ? 'active' : '' }}">Peta</a></li>
+                <a href="{{route('public.maps.list')}}" class="nav__item-link {{ Request::routeIs('public.maps.list')||Request::routeIs('public.maps.list') ? 'active' : '' }}">Peta</a></li>
               <!-- /.nav-item -->
               <li class="nav__item">
-              <a href="{{route('public.vision')}}" class="nav__item-link {{ Request::routeIs('public.vision')||Request::routeIs('public.vision') ? 'active' : '' }}">Visi Misi</a></li>
+              <a href="{{route('public.visi.list')}}" class="nav__item-link {{ Request::routeIs('public.visi.list')||Request::routeIs('public.visi.list') ? 'active' : '' }}">Visi Misi</a></li>
               <!-- /.nav-item -->
               <li class="nav__item">
-              <a href="{{route('public.topografi')}}" class="nav__item-link {{ Request::routeIs('public.topografi')||Request::routeIs('public.topografi') ? 'active' : '' }}">Topografi</a></li>
+              <a href="{{route('public.topography.list')}}" class="nav__item-link {{ Request::routeIs('public.topography.list')||Request::routeIs('public.topography.list') ? 'active' : '' }}">Topografi</a></li>
               <!-- /.nav-item -->
               <li class="nav__item">
                 <a href="https://drive.google.com/file/d/1A4ZigaNqZlUDqaKGd5NzstmcKNmqfdka/view" class="nav__item-link" target="_blank">Struktur Organisasi</a></li>
@@ -67,9 +67,9 @@
             <a href="#" data-toggle="dropdown" class="dropdown-toggle nav__item-link">Pemerintahan</a>
             <ul class="dropdown-menu">
               <li class="nav__item">
-              <a href="{{route('public.village')}}" class="nav__item-link {{ Request::routeIs('public.village')||Request::routeIs('public.village') ? 'active' : '' }}">Profil Desa</a></li>
+              <a href="{{route('public.desa.list')}}" class="nav__item-link {{ Request::routeIs('public.desa.list')||Request::routeIs('public.desa.list') ? 'active' : '' }}">Profil Desa</a></li>
               <li class="nav__item">
-              <a href="{{route('public.uptd')}}" class="nav__item-link {{ Request::routeIs('public.uptd')||Request::routeIs('public.uptd') ? 'active' : '' }}">UPTD</a></li>
+              <a href="{{route('public.uptd.list')}}" class="nav__item-link {{ Request::routeIs('public.uptd.list')||Request::routeIs('public.uptd.list') ? 'active' : '' }}">UPTD</a></li>
             </ul><!-- /.dropdown-menu -->
           </li><!-- /.nav-item -->
           <li class="nav__item with-dropdown">

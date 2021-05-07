@@ -5,18 +5,20 @@ namespace App\Http\Controllers\Frontend;
 use App\Http\Controllers\Controller;
 use Illuminate\Support\Facades\Storage;
 use Illuminate\Http\Request;
+// use App\Models\UPTD;
 use App\Models\Article;
 use App\Models\Agenda;
 use App\Models\Announcement;
 
-class HistoryController extends Controller
+class UPTDController extends Controller
 {
     public function index(){
       try{
         $announcement = Announcement::where('status', 'show')->latest()->limit(5)->get();
         $article = Article::where('status', 'show')->latest()->limit(5)->get();
         $agenda = Agenda::where('status', 'show')->latest()->limit(5)->get();
-        return view('public.profil.history.list', compact('article', 'agenda', 'announcement'));
+        // $uptd = UPTD::where(['status'=>'show'])->latest()->paginate(1);
+        return view('public.pemerintahan.uptd.list', compact(/* uptd, */'article', 'agenda', 'announcement'));
       }catch(\Exception $e){
         $error = $e->getMessage();
         return redirect()->back()->with(['error'=>$error]);
@@ -28,7 +30,8 @@ class HistoryController extends Controller
         $announcement = Announcement::where('status', 'show')->latest()->limit(5)->get();
         $article = Article::where('status', 'show')->latest()->limit(5)->get();
         $agenda = Agenda::where('status', 'show')->latest()->limit(5)->get();
-        return view('public.profil.history.detail', compact('article', 'agenda', 'announcement'));
+        // $uptd = UPTD::where('slug', $slug)->first();
+        return view('public.pemerintahan.uptd.detail', compact(/* uptd, */'article', 'agenda', 'announcement'));
       }catch(\Exception $e){
         $error = $e->getMessage();
         return redirect()->back()->with(['error'=>$error]);
