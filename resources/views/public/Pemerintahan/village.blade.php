@@ -34,8 +34,7 @@
                     <div class="col-md-8 col-sm-4">
                         <h5><a href="https://www.mangyono.com/2017/07/desa-cijengkol-kecamatan-serang-panjang.html"
                                 style="text-decoration:none;color:black;">Cijengkol, Serangpanjang, Subang</a></h5>
-                        <small><i
-                                class="fa fa-clock"></i>&nbsp;Desa Cijengkol Kecamatan Serangpanjang Kabupaten subang adalah salah satu desa di daerah selatan subang yang memiliki luas wilayah sebesar 854,45 Ha/m2. Luas wilayah ini dibagi menjadi 4 dusun dengan jumlah Kepala Keluarga sebanyak 1667 (sementara). Batas wilayah Desa Cijengkol sendiri di sebelah barat berbatasan dengan Desa Talagasari, lalu di sebelah Timur berbatasan dengan Desa Dayeuh Kolot, di sebelah selatan sendiri berbatasan dengan Desa Cikujang, dan di sebelah Utara berbatasan dengan Desa Cintamekar.</small>
+                                <p> Desa Cijengkol Kecamatan Serangpanjang Kabupaten subang adalah salah satu desa di daerah selatan subang yang memiliki luas wilayah sebesar 854,45 Ha/m2. Luas wilayah ini dibagi menjadi 4 dusun dengan jumlah Kepala Keluarga sebanyak 1667 (sementara). Batas wilayah Desa Cijengkol sendiri di sebelah barat berbatasan dengan Desa Talagasari, lalu di sebelah Timur berbatasan dengan Desa Dayeuh Kolot, di sebelah selatan sendiri berbatasan dengan Desa Cikujang, dan di sebelah Utara berbatasan dengan Desa Cintamekar.</p>
                     </div>
                 </div>
                                 <div class="row py-3 my-2">
@@ -51,8 +50,7 @@
                     <div class="col-md-8 col-sm-4">
                         <h5><a href="https://www.mangyono.com/2017/07/desa-cikujang-kecamatan-serang-panjang.html"
                                 style="text-decoration:none;color:black;">Cikujang, Serangpanjang, Subang</a></h5>
-                        <small><i
-                                class="fa fa-clock"></i>&nbsp;Cikujang adalah desa di kecamatan Serangpanjang, Subang, Jawa Barat, Indonesia. Akses jalan untuk menuju Desa Cikujang, jika dari arah Bandung, bisa melalui Ciater-Jalancagak-Sagalaherang. Dari Sagalaherang sekitar 7 km. Jika dari arah Jakarta, jalur menuju Cikujang bisa melalui Purwakarta-lalu ke Wanayasa-Cijengkol, kemudian masuk dari pertigaan Ciasem.</small>
+                                <p>Cikujang adalah desa di kecamatan Serangpanjang, Subang, Jawa Barat, Indonesia. Akses jalan untuk menuju Desa Cikujang, jika dari arah Bandung, bisa melalui Ciater-Jalancagak-Sagalaherang. Dari Sagalaherang sekitar 7 km. Jika dari arah Jakarta, jalur menuju Cikujang bisa melalui Purwakarta-lalu ke Wanayasa-Cijengkol, kemudian masuk dari pertigaan Ciasem.</p>
                     </div>
                 </div>
 
