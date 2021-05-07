@@ -104,7 +104,7 @@
                 </div>
                 <div class="ms-2 me-auto">
                   <div class="d-flex w-100 justify-content-between">
-                    <h5 class="mb-1">Talagasari</h5>
+                    <h5 class="mb-1">Desa Talagasari</h5>
                   </div>
                   <p class="mb-1">
                   Talagasari adalah desa di kecamatan Serangpanjang, Subang, Jawa Barat, Indonesia.
