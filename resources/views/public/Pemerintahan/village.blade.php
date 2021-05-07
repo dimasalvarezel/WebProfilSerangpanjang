@@ -15,7 +15,7 @@
     <div class="container">
       <div class="row">
         <div class="col-sm-12 col-md-12 col-lg-12">
-          <h1 class="pagetitle__heading">Profil Desa</h1>
+          <h1 class="pagetitle__heading">Profil Desa Serangpanjang</h1>
         </div><!-- /.col-lg-12 -->
       </div><!-- /.row -->
     </div><!-- /.container -->
@@ -26,7 +26,7 @@
         <div class="row">
             <div class="col-sm-12 col-md-12 col-lg-8">
                 <div class="">
-                <h1 class="heading__title">Profil Desa Serangpanjang</h1>
+                <h1 class="heading__title">Profil Desa Kecamatan Serangpanjang</h1>
                 <div class="row py-2 my-2 mr-2" style="box-shadow: 0 5px 35px 0px rgba(0,0,0,.1);">
                     <div class="list-content col-md-4 col-sm-4">
                         <img src="https://3.bp.blogspot.com/-f905CE-krao/WXAhpwKHaMI/AAAAAAAAdzY/f3nOWjnn3-YgeeRHSYIRls5Et56Hmj4MgCLcBGAs/s1600/a-Kantor%2BDesa%2BCijengkol%2BSerangpanjang%2B-%2BMANGYONOcom.jpg" class="img-fluid">

@@ -32,7 +32,7 @@
                         <img src="https://igx.4sqi.net/img/general/100x100/9202358_g68kPeNUYwyp0PHE11KmUK9HHuThgruLtmDy-1JBYJo.jpg" class="img-fluid">
                     </div>
                     <div class="col-md-8 col-sm-4">
-                        <h5><a href="https://subang.go.id/public/wisata/seni-dan-budaya/sisingaan"
+                        <h5><a href="https://www.google.com/maps/place/Sate+Maranggi+Pareang/@-6.642702,107.5627667,20z/data=!4m5!3m4!1s0x2e691bd37a191585:0x13eb7905c3b0c11d!8m2!3d-6.6442079!4d107.5677623"
                                 style="text-decoration:none;color:black;">Sate Maranggi Pareang – Kiarapedes</a></h5>
                                 <p>Sate Maranggi Pareang – Kiarapedes ialah Indonesian Restaurant yang terlatak 4.89 KM dari Serangpanjang, Lebih Tepatnya Bertempat di Ds. Kiarapedes Wanayasa Purwakarta Jawa Barat</p>
                         <small><i
@@ -44,7 +44,7 @@
                         <img src="https://igx.4sqi.net/img/general/100x100/42530260_7FeksX2HgnBuQ7gSqooPegIzO5hbkKUOQYZc31v4KKc.jpg" class="img-fluid">
                     </div>
                     <div class="col-md-8 col-sm-4">
-                        <h5><a href="https://subang.go.id/public/wisata/seni-dan-budaya/sisingaan"
+                        <h5><a href="https://www.google.com/maps/search/Warung+Sate+Cijengkol/@-6.6058225,107.6321547,12z/data=!3m1!4b1"
                                 style="text-decoration:none;color:black;">Warung Sate Cijengkol</a></h5>
                                 <p>Warung Sate Cijengkol ialah Asian Restaurant yang terlatak 4.61 KM dari Serangpanjang, Lebih Tepatnya Bertempat di cijengkol Segalaherang Jawa Barat</p>
                         <small><i
@@ -57,13 +57,12 @@
                         <img src="https://igx.4sqi.net/img/general/100x100/65081982_CMatMiZoBt5lw87DsInQ0udE4wxiQMoJwg1AYsnSVIg.jpg" class="img-fluid">
                     </div>
                     <div class="col-md-8 col-sm-4">
-                        <h5><a href="https://subang.go.id/public/wisata/seni-dan-budaya/doger-subang"
+                        <h5><a href="https://www.google.com/maps/place/Sate+Maranggi+Pareang/@-6.6442079,107.5655736,17z/data=!3m1!4b1!4m5!3m4!1s0x2e691bd37a191585:0x13eb7905c3b0c11d!8m2!3d-6.6442079!4d107.5677623"
                                 style="text-decoration:none;color:black;">Sate Maranggi Pareang</a></h5>
                                 <p>Sate Maranggi Pareang ialah Sundanese Restaurant yang terlatak 4.89 KM dari Serangpanjang, Lebih Tepatnya Bertempat di Ds. Kiara Pedes Serangpanjang Subang
 
-Serangpanjang, Subang Rating : -/10</p>
-                        <small><i
-                                class="fa fa-clock"></i>&nbsp;Selasa, 28 Agustus 2018</small>
+Serangpanjang</p>
+                        
                     </div>
                 </div>
                                 
