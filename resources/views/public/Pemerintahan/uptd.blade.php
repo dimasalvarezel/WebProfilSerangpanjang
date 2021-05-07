@@ -28,7 +28,7 @@
                 <div class="">
                 <h1 class="heading__title">UPTD Serangpanjang</h1>
                     <p style="text-align: left; font-size: 20px">
-                        <span style="text-align:center;font-weight:bold;"><h4>belum ada data</h4></span>
+                        <span style="text-align:center;font-weight:bold;"><h4></h4></span>
                     </p>
                 </div>
             </div>
