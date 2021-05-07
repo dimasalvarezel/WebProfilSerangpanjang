@@ -15,11 +15,7 @@
     <div class="container">
       <div class="row">
         <div class="col-sm-12 col-md-12 col-lg-12">
-<<<<<<< HEAD
-          <h1 class="pagetitle__heading"> Profil Desa</h1>
-=======
           <h1 class="pagetitle__heading">Desa</h1>
->>>>>>> 04ff708663d9261443e173855771df0fe8a8f296
         </div><!-- /.col-lg-12 -->
       </div><!-- /.row -->
     </div><!-- /.container -->
@@ -33,21 +29,12 @@
           <div class="col-sm-12 col-md-12 col-lg-8">
             <div class="list-group">
               <li class="list-group-item list-group-item-action d-flex justify-content-between align-items-start">
-<<<<<<< HEAD
-                <div class="list-content col-md-4 col-sm-4">
-                  <img src="https://3.bp.blogspot.com/-f905CE-krao/WXAhpwKHaMI/AAAAAAAAdzY/f3nOWjnn3-YgeeRHSYIRls5Et56Hmj4MgCLcBGAs/s1600/a-Kantor%2BDesa%2BCijengkol%2BSerangpanjang%2B-%2BMANGYONOcom.jpg" class="img-fluid">
-                </div>
-                <div class="ms-2 me-auto">
-                  <div class="d-flex w-100 justify-content-between">
-                    <h5 class="mb-1">Desa Cijengkol</h5>
-=======
                 <div class="list-content col-md-3 col-sm-3">
                   <img src="#" class="img-fluid">
                 </div>
                 <div class="ms-2 me-auto">
                   <div class="d-flex w-100 justify-content-between">
                     <h5 class="mb-1">Cijengkol</h5>
->>>>>>> 04ff708663d9261443e173855771df0fe8a8f296
                   </div>
                   <p class="mb-1">
                     Desa Cijengkol Kecamatan Serangpanjang Kabupaten subang adalah salah satu desa di daerah selatan subang yang memiliki luas wilayah sebesar 854,45 Ha/m2. Luas wilayah ini dibagi menjadi 4 dusun dengan jumlah Kepala Keluarga sebanyak 1667 (sementara). Batas wilayah Desa Cijengkol sendiri di sebelah barat berbatasan dengan Desa Talagasari, lalu di sebelah Timur berbatasan dengan Desa Dayeuh Kolot, di sebelah selatan sendiri berbatasan dengan Desa Cikujang, dan di sebelah Utara berbatasan dengan Desa Cintamekar. Dari 4 Dusun tersebut terbagi menjadi 26 Rt dan 13 Rw.
@@ -56,21 +43,12 @@
                 </div>
               </li>
               <li class="list-group-item list-group-item-action d-flex justify-content-between align-items-start">
-<<<<<<< HEAD
-                <div class="list-content col-md-4 col-sm-4">
-                  <img src="https://3.bp.blogspot.com/-5-sGePJZAnw/WXAt53iaJpI/AAAAAAAAdzg/yAGu0IY5X9Mk0qq0AsdmcLLMLbprR4FtwCLcBGAs/w1200-h630-p-k-no-nu/a-Kantor%2BDesa%2BCikujang%2BSerangpanjang%2B-%2BMANGYONOcom.jpg" class="img-fluid">
-                </div>
-                <div class="ms-2 me-auto">
-                  <div class="d-flex w-100 justify-content-between">
-                    <h5 class="mb-1">Desa Cikujang</h5>
-=======
                 <div class="list-content col-md-3 col-sm-3">
                   <img src="#" class="img-fluid">
                 </div>
                 <div class="ms-2 me-auto">
                   <div class="d-flex w-100 justify-content-between">
                     <h5 class="mb-1">Cikujang</h5>
->>>>>>> 04ff708663d9261443e173855771df0fe8a8f296
                   </div>
                   <p class="mb-1">
                     Cikujang adalah desa di kecamatan Serangpanjang, Subang, Jawa Barat, Indonesia. Akses jalan untuk menuju Desa Cikujang, jika dari arah Bandung, bisa melalui Ciater-Jalancagak-Sagalaherang. Dari Sagalaherang sekitar 7 km. Jika dari arah Jakarta, jalur menuju Cikujang bisa melalui Purwakarta-lalu ke Wanayasa-Cijengkol, kemudian masuk dari pertigaan Ciasem.
@@ -79,21 +57,12 @@
                 </div>
               </li>
               <li class="list-group-item list-group-item-action d-flex justify-content-between align-items-start">
-<<<<<<< HEAD
-                <div class="list-content col-md-4 col-sm-4">
-                  <img src="https://beritatransparansi.co.id/wp-content/uploads/2020/08/IMG-20200805-WA0009.jpg" class="image-fluid">
-                </div>
-                <div class="ms-2 me-auto">
-                  <div class="d-flex w-100 justify-content-between">
-                    <h5 class="mb-1">Desa Cintamekar</h5>
-=======
                 <div class="list-content col-md-3 col-sm-3">
                   <img src="#" class="img-fluid">
                 </div>
                 <div class="ms-2 me-auto">
                   <div class="d-flex w-100 justify-content-between">
                     <h5 class="mb-1">Cintamekar</h5>
->>>>>>> 04ff708663d9261443e173855771df0fe8a8f296
                   </div>
                   <p class="mb-1">
                     Cintamekar adalah desa di kecamatan Serangpanjang, Subang, Jawa Barat, Indonesia . Wilayah Cintamekar meliputi 4 dusun, 8 RW dan 16 RT. Cintamekar merupakan salah satu desa dengan nama terunik, nama tersebut ternyata merupakan singkatan dari nama ke empat dusun yang berada di cintamekar, CI untuk Cimute, Ta untuk Tangkil, Me untuk Malingping, dan Kar untuk Karapyak. Dahulu tingkat pembangunan di Cintamekar tergolong lambat terutama dari sisi pendidikan dan ekonomi. Namun pada tahun 2003 perubahan mulai terasa di desa ini saat warganya secara swadaya mulai membangun dan mengelola pembangkit listrik Mikrohidro sebesar 120 kilowatt yang memanfaatkan aliran sungai Ciasem, dampak positif pun mulai dirasakan warga yaitu dengan mendapat manfaat lain dari masuknya listrik kerumah - rumah warga. Sebelum pemekaran Desa Cintamekar ini masuk kedalam wilayah Kecamatan Sagalaherang.
@@ -102,21 +71,12 @@
                 </div>
               </li>
               <li class="list-group-item list-group-item-action d-flex justify-content-between align-items-start">
-<<<<<<< HEAD
-                <div class="list-content col-md-4 col-sm-4">
-                  <img src="https://1.bp.blogspot.com/-scLU9p9qLEk/V43nLh_GtaI/AAAAAAAAXo8/DlM_189VGlg9bomfTahmw5xHWVVzGAoiACLcB/s1600/DESA%2Bcipancar%2Bcijalu%2B-%2Bserangpanjang%2B-%2BBLOG%2BMANG%2BYONO.jpg" class="img-fluid">
-                </div>
-                <div class="ms-2 me-auto">
-                  <div class="d-flex w-100 justify-content-between">
-                    <h5 class="mb-1">Desa Cipanjar</h5>
-=======
                 <div class="list-content col-md-3 col-sm-3">
                   <img src="#" class="img-fluid">
                 </div>
                 <div class="ms-2 me-auto">
                   <div class="d-flex w-100 justify-content-between">
                     <h5 class="mb-1">Cipanjar</h5>
->>>>>>> 04ff708663d9261443e173855771df0fe8a8f296
                   </div>
                   <p class="mb-1">
                     Cipancar adalah desa di kecamatan Serangpanjang, Subang, Jawa Barat, Indonesia. Wilayah Cipancar terletak paling selatan dari kecamatan Serangpanjang, berbatasan langsung dengan desa Ponggang di utara, desa Cisarua di selatan, desa Pusaka Mulya di barat, dan desa Cikujang di Timur. Di Cipancar terdapat suatu objek wisata air terjun bernama Curug Cijalu.
@@ -125,21 +85,12 @@
                 </div>
               </li>
               <li class="list-group-item list-group-item-action d-flex justify-content-between align-items-start">
-<<<<<<< HEAD
-                <div class="list-content col-md-4 col-sm-4">
-                  <img src="https://1.bp.blogspot.com/-6MlBqyvYNVY/WXBSEHB9taI/AAAAAAAAdz8/f_kJiNrKh9E8sS3j0nLgUwkp1mq1_H2pACEwYBhgL/s400/a-Desa%2BPonggang%2B-a-%2BMANGYONOcom.jpg" class="img-fluid">
-                </div>
-                <div class="ms-2 me-auto">
-                  <div class="d-flex w-100 justify-content-between">
-                    <h5 class="mb-1">Desa Ponggang</h5>
-=======
                 <div class="list-content col-md-3 col-sm-3">
                   <img src="#" class="img-fluid">
                 </div>
                 <div class="ms-2 me-auto">
                   <div class="d-flex w-100 justify-content-between">
                     <h5 class="mb-1">Ponggang</h5>
->>>>>>> 04ff708663d9261443e173855771df0fe8a8f296
                   </div>
                   <p class="mb-1">
                   Ponggang adalah desa di kecamatan Serangpanjang, Subang, Jawa Barat, Indonesia.
@@ -148,21 +99,12 @@
                 </div>
               </li>
               <li class="list-group-item list-group-item-action d-flex justify-content-between align-items-start">
-
-                <div class="list-content col-md-4 col-sm-4">
-                  <img src="https://talagasarionline.files.wordpress.com/2009/08/pic_4262.jpg?w=300&h=225" class="img-fluid">
-                </div>
-                <div class="ms-2 me-auto">
-                  <div class="d-flex w-100 justify-content-between">
-                    <h5 class="mb-1">Desa Talagasari</h5>
-=======
                 <div class="list-content col-md-3 col-sm-3">
                   <img src="#" class="img-fluid">
                 </div>
                 <div class="ms-2 me-auto">
                   <div class="d-flex w-100 justify-content-between">
                     <h5 class="mb-1">Talagasari</h5>
-
                   </div>
                   <p class="mb-1">
                   Talagasari adalah desa di kecamatan Serangpanjang, Subang, Jawa Barat, Indonesia.
