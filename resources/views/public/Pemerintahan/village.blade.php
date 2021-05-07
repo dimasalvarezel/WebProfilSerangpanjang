@@ -33,7 +33,7 @@
                     </div>
                     <div class="col-md-8 col-sm-4">
                         <h5><a href="https://www.mangyono.com/2017/07/desa-cijengkol-kecamatan-serang-panjang.html"
-                                style="text-decoration:none;color:black;">Cijengkol, Serangpanjang, Subang</a></h5>
+                                style="text-decoration:none;color:black;">Desa Cijengkol, Serangpanjang, Subang</a></h5>
                                 <p> Desa Cijengkol Kecamatan Serangpanjang Kabupaten subang adalah salah satu desa di daerah selatan subang yang memiliki luas wilayah sebesar 854,45 Ha/m2. Luas wilayah ini dibagi menjadi 4 dusun dengan jumlah Kepala Keluarga sebanyak 1667 (sementara). Batas wilayah Desa Cijengkol sendiri di sebelah barat berbatasan dengan Desa Talagasari, lalu di sebelah Timur berbatasan dengan Desa Dayeuh Kolot, di sebelah selatan sendiri berbatasan dengan Desa Cikujang, dan di sebelah Utara berbatasan dengan Desa Cintamekar.</p>
                     </div>
                 </div>
