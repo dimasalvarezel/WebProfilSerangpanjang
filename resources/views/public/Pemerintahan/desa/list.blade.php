@@ -34,7 +34,7 @@
                 </div>
                 <div class="ms-2 me-auto">
                   <div class="d-flex w-100 justify-content-between">
-                    <h5 class="mb-1">Cijengkol</h5>
+                    <h5 class="mb-1">Desa Cijengkol</h5>
                   </div>
                   <p class="mb-1">
                     Desa Cijengkol Kecamatan Serangpanjang Kabupaten subang adalah salah satu desa di daerah selatan subang yang memiliki luas wilayah sebesar 854,45 Ha/m2. Luas wilayah ini dibagi menjadi 4 dusun dengan jumlah Kepala Keluarga sebanyak 1667 (sementara). Batas wilayah Desa Cijengkol sendiri di sebelah barat berbatasan dengan Desa Talagasari, lalu di sebelah Timur berbatasan dengan Desa Dayeuh Kolot, di sebelah selatan sendiri berbatasan dengan Desa Cikujang, dan di sebelah Utara berbatasan dengan Desa Cintamekar. Dari 4 Dusun tersebut terbagi menjadi 26 Rt dan 13 Rw.
@@ -48,7 +48,7 @@
                 </div>
                 <div class="ms-2 me-auto">
                   <div class="d-flex w-100 justify-content-between">
-                    <h5 class="mb-1">Cikujang</h5>
+                    <h5 class="mb-1">Desa Cikujang</h5>
                   </div>
                   <p class="mb-1">
                     Cikujang adalah desa di kecamatan Serangpanjang, Subang, Jawa Barat, Indonesia. Akses jalan untuk menuju Desa Cikujang, jika dari arah Bandung, bisa melalui Ciater-Jalancagak-Sagalaherang. Dari Sagalaherang sekitar 7 km. Jika dari arah Jakarta, jalur menuju Cikujang bisa melalui Purwakarta-lalu ke Wanayasa-Cijengkol, kemudian masuk dari pertigaan Ciasem.
@@ -62,7 +62,7 @@
                 </div>
                 <div class="ms-2 me-auto">
                   <div class="d-flex w-100 justify-content-between">
-                    <h5 class="mb-1">Cintamekar</h5>
+                    <h5 class="mb-1">Desa Cintamekar</h5>
                   </div>
                   <p class="mb-1">
                     Cintamekar adalah desa di kecamatan Serangpanjang, Subang, Jawa Barat, Indonesia . Wilayah Cintamekar meliputi 4 dusun, 8 RW dan 16 RT. Cintamekar merupakan salah satu desa dengan nama terunik, nama tersebut ternyata merupakan singkatan dari nama ke empat dusun yang berada di cintamekar, CI untuk Cimute, Ta untuk Tangkil, Me untuk Malingping, dan Kar untuk Karapyak. Dahulu tingkat pembangunan di Cintamekar tergolong lambat terutama dari sisi pendidikan dan ekonomi. Namun pada tahun 2003 perubahan mulai terasa di desa ini saat warganya secara swadaya mulai membangun dan mengelola pembangkit listrik Mikrohidro sebesar 120 kilowatt yang memanfaatkan aliran sungai Ciasem, dampak positif pun mulai dirasakan warga yaitu dengan mendapat manfaat lain dari masuknya listrik kerumah - rumah warga. Sebelum pemekaran Desa Cintamekar ini masuk kedalam wilayah Kecamatan Sagalaherang.
@@ -76,7 +76,7 @@
                 </div>
                 <div class="ms-2 me-auto">
                   <div class="d-flex w-100 justify-content-between">
-                    <h5 class="mb-1">Cipanjar</h5>
+                    <h5 class="mb-1">Desa Cipanjar</h5>
                   </div>
                   <p class="mb-1">
                     Cipancar adalah desa di kecamatan Serangpanjang, Subang, Jawa Barat, Indonesia. Wilayah Cipancar terletak paling selatan dari kecamatan Serangpanjang, berbatasan langsung dengan desa Ponggang di utara, desa Cisarua di selatan, desa Pusaka Mulya di barat, dan desa Cikujang di Timur. Di Cipancar terdapat suatu objek wisata air terjun bernama Curug Cijalu.
