@@ -13,26 +13,19 @@ Route::namespace('Frontend')->group(static function () {
   Route::get('/profil/unit-kerja', 'HomeController@field')->name('public.field');
   
   Route::get('/profil/sejarah', 'HistoryController@index')->name('public.history.list');
-  Route::get('/profil/sejarah/{slug}', 'HistoryController@show')->name('public.history.detail');
   Route::get('/profil/peta', 'MapsController@index')->name('public.maps.list');
-  Route::get('/profil/peta/{slug}', 'MapsController@show')->name('public.maps.detail');
   Route::get('/profil/topografi', 'TopographyController@index')->name('public.topography.list');
-  Route::get('/profil/topografi/{slug}', 'TopographyController@show')->name('public.topography.detail');
   Route::get('/profil/visi-misi', 'VisiController@index')->name('public.visi.list');
-  Route::get('/profil/visi-misi/{slug}', 'VisiController@show')->name('public.visi.detail');
   
   Route::get('/pemerintahan/profil-desa', 'DesaController@index')->name('public.desa.list');
-  Route::get('/pemerintahan/profil-desa/{slug}', 'DesaController@show')->name('public.desa.detail');
   Route::get('/pemerintahan/UPTD', 'UPTDController@index')->name('public.uptd.list');
-  Route::get('/pemerintahan/UPTD/{slug}', 'UPTDController@show')->name('public.uptd.detail');
   
-  Route::get('/wisata/objek-wisata', 'HomeController@vacation')->name('public.objek');
-  Route::get('/wisata/budaya-kesenian', 'HomeController@culture')->name('public.culture');
-  Route::get('/wisata/sarana-olahraga', 'HomeController@sport')->name('public.olahraga');
-  Route::get('/wisata/rumah-makan', 'HomeController@rm')->name('public.makanan');
-  Route::get('/wisata/hotel', 'HomeController@hotel')->name('public.hotel');
-  //   Route::get('/wisata/objek-wisata', 'VacationController@index')->name('public.objek.list');
-//   Route::get('/wisata/{slug}', 'VacationController@show')->name('public.objek.detail');
+  Route::get('/wisata/objek-wisata', 'TourController@index')->name('public.tour.list');
+  Route::get('/wisata/budaya-kesenian', 'CultureController@index')->name('public.culture.list');
+  Route::get('/wisata/sarana-olahraga', 'SportController@index')->name('public.sport.list');
+  Route::get('/wisata/hotel', 'HotelController@index')->name('public.hotel.list');
+  Route::get('/wisata/rumah-makan', 'RMController@index')->name('public.rm.list');
+  
   Route::get('/kontak-kami', 'HomeController@contactUs')->name('public.contact');
   Route::post('/kontak-kami', 'HomeController@sendMessage')->name('public.sendmessage');
   Route::get('/artikel', 'ArticleController@index')->name('public.article.list');

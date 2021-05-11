@@ -1,13 +1,11 @@
-@extends('public.layout.app', ['title' => 'Desa'])
-
+@extends('public.layout.app', ['title' => 'Budaya dan Kesenian'])
 @section('meta')
-  <meta name="description" content="Desa" />
+  <meta name="description" content="Budaya dan Kesenian" />
   <meta name="keywords" content="Diskominfo Subang" />
-  <meta property="og:title" content="Desa"/>
-  <meta property="og:type" content="Desa"/>
+  <meta property="og:title" content="Budaya dan Kesenian"/>
+  <meta property="og:type" content="Budaya"/>
   <meta property="og:image" content="{{asset('fontend/images/grid/1.jpg')}}"/>
 @endsection
-
 @section('content')
   <!-- === Page Title === -->
   <section id="page-title" class="page-title page-title-layout1 bg-overlay bg-overlay-3 text-center">
@@ -15,7 +13,7 @@
     <div class="container">
       <div class="row">
         <div class="col-sm-12 col-md-12 col-lg-12">
-          <h1 class="pagetitle__heading">Desa</h1>
+          <h1 class="pagetitle__heading">Budaya dan Kesenian</h1>
         </div><!-- /.col-lg-12 -->
       </div><!-- /.row -->
     </div><!-- /.container -->
@@ -26,91 +24,86 @@
       <div class="container">
         <div class="row">
 
-          <div class="col-sm-12 col-md-12 col-lg-8">
+        <div class="col-sm-12 col-md-12 col-lg-8">
             <div class="list-group">
-              <li class="list-group-item list-group-item-action d-flex justify-content-between align-items-start">
+              <li class="list-group-item list-group-item-action d-flex justify-content align-items-start">
                 <div class="list-content col-md-4 col-sm-4">
-                  <img src="{{asset('assets/img/cijengkol.png')}}" class="img-fluid">
+                  <img src="{{asset('assets/img/genjring_bonyok.png')}}" class="img-fluid">
                 </div>
                 <div class="ms-2 me-auto">
-                  <div class="d-flex w-100 justify-content-between">
-                    <h5 class="mb-1">Cijengkol</h5>
+                  <div class="d-flex w-100 justify-content">
+                    <h5 class="mb-1">Genjring Bonyok</h5>
                   </div>
-                  <p class="mb-1">
-                    Desa Cijengkol Kecamatan Serangpanjang Kabupaten subang adalah salah satu desa di daerah selatan subang yang memiliki luas wilayah sebesar 854,45 Ha/m2. Luas wilayah ini dibagi menjadi 4 dusun dengan jumlah Kepala Keluarga sebanyak 1667 (sementara). Batas wilayah Desa Cijengkol sendiri di sebelah barat berbatasan dengan Desa Talagasari, lalu di sebelah Timur berbatasan dengan Desa Dayeuh Kolot, di sebelah selatan sendiri berbatasan dengan Desa Cikujang, dan di sebelah Utara berbatasan dengan Desa Cintamekar. Dari 4 Dusun tersebut terbagi menjadi 26 Rt dan 13 Rw.
-                  </p>
-                  <a href="https://goo.gl/maps/di6on2uiao5RMEkq5" target="_blank">Lihat Peta</a>
                 </div>
               </li>
-              <li class="list-group-item list-group-item-action d-flex justify-content-between align-items-start">
+              <li class="list-group-item list-group-item-action d-flex justify-content align-items-start">
                 <div class="list-content col-md-4 col-sm-4">
-                  <img src="{{asset('assets/img/cikujang.png')}}" class="img-fluid">
+                  <img src="{{asset('assets/img/sisingaan.png')}}" class="img-fluid">
                 </div>
                 <div class="ms-2 me-auto">
-                  <div class="d-flex w-100 justify-content-between">
-                    <h5 class="mb-1">Cikujang</h5>
+                  <div class="d-flex w-100 justify-content">
+                    <h5 class="mb-1">Sisingaan</h5>
                   </div>
-                  <p class="mb-1">
-                    Desa Cikujang berdiri sejak tahun 1865. Nama desa Cikujang diambil dari sebuah pohon kayu yang bernama Kujang yang terletak dikampung bale kambang. Pohon tersebut pertama ditemukan oleh seorang tokoh di wilayah tersebut bernama Embah Dalem Tirta praja dan kemudian dijadikan nama kampung Cikujang.<br>
-                    Seiring perkembangan dengan perkembangan pemerintahan dan perkembangan pendidik nama Cikujang kemudian dijadikan nama Desa.
-                  </p>
-                  <a href="https://goo.gl/maps/V4Rdj27gAmeopGus5" target="_blank">Lihat Peta</a>
                 </div>
-              </li>
-              <li class="list-group-item list-group-item-action d-flex justify-content-between align-items-start">
+              </li>            
+              <li class="list-group-item list-group-item-action d-flex justify-content align-items-start">
                 <div class="list-content col-md-4 col-sm-4">
-                  <img src="#" class="img-fluid img-thumbnail">
+                  <img src="{{asset('assets/img/doger_subang.png')}}" class="img-fluid">
                 </div>
                 <div class="ms-2 me-auto">
-                  <div class="d-flex w-100 justify-content-between">
-                    <h5 class="mb-1">Cintamekar</h5>
+                  <div class="d-flex w-100 justify-content">
+                    <h5 class="mb-1">Doger Subang</h5>
                   </div>
-                  <p class="mb-1">
-                    Cintamekar merupakan salah satu desa dengan nama terunik, nama tersebut ternyata merupakan singkatan dari nama ke empat dusun yang berada di cintamekar, CI untuk Cimute, Ta untuk Tangkil, Me untuk Malingping, dan Kar untuk Karapyak. Di Desa Cinta Mekar mengalir sungai yang aliran airnya dimanfaatkan sebagai penggerak pembangkit listrik tenaga mikrohidro. Tenaga listrik yang didapat dijual kepada PLN untuk kemudian didistribusikan ke masyarakat sekitar di Desa Cinta Mekar. Site pembangkit listrik ini kerap kali dikunjungi oleh wisatawan
-                  </p>
-                  <a href="https://goo.gl/maps/LwiLvTWRowrR78Cr9" target="_blank">Lihat Peta</a>
                 </div>
-              </li>
-              <li class="list-group-item list-group-item-action d-flex justify-content-between align-items-start">
+              </li>            
+              <li class="list-group-item list-group-item-action d-flex justify-content align-items-start">
                 <div class="list-content col-md-4 col-sm-4">
-                  <img src="{{asset('assets/img/cipancar.png')}}" class="img-fluid">
+                  <img src="{{asset('assets/img/ruwatan_bumi.png')}}" class="img-fluid">
                 </div>
                 <div class="ms-2 me-auto">
-                  <div class="d-flex w-100 justify-content-between">
-                    <h5 class="mb-1">Cipancar</h5>
+                  <div class="d-flex w-100 justify-content">
+                    <h5 class="mb-1">Ruwatan Bumi</h5>
                   </div>
-                  <p class="mb-1">
-                    Desa Cipancar adalah desa yang paling selatan diwilayah Kecamatan Serangpanjang Kabupaten Subang. Adapun nama “Cipancar” identik dengan adanya gunung sunda, di Gunung Sunda terdapat suatu situs. Menurut keterangan masyarakat desa, tempat tersebut di pakai tempat peristirahatan para wali dan sekarang tempat tersebut banyak di kunjungi oleh orang-orang berziarah baik warga desa maupun dari luar Desa Cipancar.
-                  </p>
-                  <a href="https://goo.gl/maps/DkbhjXZ2x4qQtYgD9" target="_blank">Lihat Peta</a>
                 </div>
-              </li>
-              <li class="list-group-item list-group-item-action d-flex justify-content-between align-items-start">
+              </li>            
+              <li class="list-group-item list-group-item-action d-flex justify-content align-items-start">
                 <div class="list-content col-md-4 col-sm-4">
-                  <img src="{{asset('assets/img/ponggang.png')}}" class="img-fluid">
+                  <img src="{{asset('assets/img/gembyung.png')}}" class="img-fluid">
                 </div>
                 <div class="ms-2 me-auto">
-                  <div class="d-flex w-100 justify-content-between">
-                    <h5 class="mb-1">Ponggang</h5>
+                  <div class="d-flex w-100 justify-content">
+                    <h5 class="mb-1">Gembyung</h5>
                   </div>
-                  <p class="mb-1">
-                    Desa Ponggang yang terletak +  1 Km ke arah selatan dari Kecamatan Serang Panjang. Sedangkan untuk menuju Kota Subang, harus menempuh perjalanan antara 30 menit hingga 1 jam. Desa Ponggang Kecamatan Serang Panjang berada di ketinggian 8,62 mdl diatas permukaan laut dengan wilayah ± 141 Hektar. Suhu rata-rata harian di Desa Ponggang adalah 20-30 Celcius.
-                  </p>
-                  <a href="https://goo.gl/maps/Kv3y3YL12nCfg9xdA" target="_blank">Lihat Peta</a>
                 </div>
-              </li>
-              <li class="list-group-item list-group-item-action d-flex justify-content-between align-items-start">
+              </li>            
+              <li class="list-group-item list-group-item-action d-flex justify-content align-items-start">
                 <div class="list-content col-md-4 col-sm-4">
-                  <img src="{{asset('assets/img/talagasari.png')}}" class="img-fluid">
+                  <img src="{{asset('assets/img/mapag_dewi_sri.png')}}" class="img-fluid">
                 </div>
                 <div class="ms-2 me-auto">
-                  <div class="d-flex w-100 justify-content-between">
-                    <h5 class="mb-1">Talagasari</h5>
+                  <div class="d-flex w-100 justify-content">
+                    <h5 class="mb-1">Mapag Dewi Sri</h5>
                   </div>
-                  <p class="mb-1">
-                  Talagasari adalah desa di kecamatan Serangpanjang, Subang, Jawa Barat, Indonesia.
-                  </p>
-                  <a href="https://goo.gl/maps/dLSJECpL3zZEagv59" target="_blank">Lihat Peta</a>
+                </div>
+              </li>            
+              <li class="list-group-item list-group-item-action d-flex justify-content align-items-start">
+                <div class="list-content col-md-4 col-sm-4">
+                  <img src="{{asset('assets/img/nadran.png')}}" class="img-fluid">
+                </div>
+                <div class="ms-2 me-auto">
+                  <div class="d-flex w-100 justify-content">
+                    <h5 class="mb-1">Nadran</h5>
+                  </div>
+                </div>
+              </li>            
+              <li class="list-group-item list-group-item-action d-flex justify-content align-items-start">
+                <div class="list-content col-md-4 col-sm-4">
+                  <img src="{{asset('assets/img/toleat.png')}}" class="img-fluid">
+                </div>
+                <div class="ms-2 me-auto">
+                  <div class="d-flex w-100 justify-content">
+                    <h5 class="mb-1">Toleat</h5>
+                  </div>
                 </div>
               </li>            
             </div>
@@ -190,7 +183,6 @@
     <!-- /.End Post -->
 
 @endsection
-
 @section('top-resource')
 @endsection
 @section('bottom-resource')

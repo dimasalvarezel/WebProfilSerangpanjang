@@ -22,16 +22,4 @@ class VisiController extends Controller
         return redirect()->back()->with(['error'=>$error]);
       }
     }
-
-    public function show($slug){
-      try{
-        $announcement = Announcement::where('status', 'show')->latest()->limit(5)->get();
-        $article = Article::where('status', 'show')->latest()->limit(5)->get();
-        $agenda = Agenda::where('status', 'show')->latest()->limit(5)->get();
-        return view('public.profil.visi.detail', compact('article', 'agenda', 'announcement'));
-      }catch(\Exception $e){
-        $error = $e->getMessage();
-        return redirect()->back()->with(['error'=>$error]);
-      }
-    }
 }

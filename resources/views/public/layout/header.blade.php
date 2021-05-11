@@ -75,16 +75,16 @@
           <li class="nav__item with-dropdown">
             <a href="#" data-toggle="dropdown" class="dropdown-toggle nav__item-link">Wisata</a>
             <ul class="dropdown-menu">
-            <li class="nav__item">
-              <a href="{{route('public.objek')}}" class="nav__item-link {{ Request::routeIs('public.objek')||Request::routeIs('public.objek') ? 'active' : '' }}">Objek Wisata</a></li>
               <li class="nav__item">
-                <a href="{{route('public.culture')}}" class="nav__item-link {{ Request::routeIs('public.culture')||Request::routeIs('public.culture') ? 'active' : '' }}">Budaya dan Kesenian</a></li>
+                <a href="{{route('public.tour.list')}}" class="nav__item-link {{ Request::routeIs('public.tour.list')||Request::routeIs('public.tour.list') ? 'active' : '' }}">Objek Wisata</a></li>
               <li class="nav__item">
-                <a href="{{route('public.olahraga')}}" class="nav__item-link {{ Request::routeIs('public.olahraga')||Request::routeIs('public.olahraga') ? 'active' : '' }}">Sarana Olahraga</a></li>
+                <a href="{{route('public.culture.list')}}" class="nav__item-link {{ Request::routeIs('public.culture.list')||Request::routeIs('public.culture.list') ? 'active' : '' }}">Budaya dan Kesenian</a></li>
               <li class="nav__item">
-                <a href="{{route('public.hotel')}}" class="nav__item-link {{ Request::routeIs('public.hotel')||Request::routeIs('public.hotel') ? 'active' : '' }}">Hotel</a></li>
+                <a href="{{route('public.sport.list')}}" class="nav__item-link {{ Request::routeIs('public.sport.list')||Request::routeIs('public.sport.list') ? 'active' : '' }}">Sarana Olahraga</a></li>
               <li class="nav__item">
-                <a href="{{route('public.makanan')}}" class="nav__item-link {{ Request::routeIs('public.makanan')||Request::routeIs('public.makanan') ? 'active' : '' }}">Rumah Makan</a></li>
+                <a href="{{route('public.hotel.list')}}" class="nav__item-link {{ Request::routeIs('public.hotel.list')||Request::routeIs('public.hotel.list') ? 'active' : '' }}">Hotel</a></li>
+              <li class="nav__item">
+                <a href="{{route('public.rm.list')}}" class="nav__item-link {{ Request::routeIs('public.rm.list')||Request::routeIs('public.rm.list') ? 'active' : '' }}">Rumah Makan</a></li>
             </ul><!-- /.dropdown-menu -->
           </li><!-- /.nav-item -->
           <li class="nav__item with-dropdown">

@@ -9,14 +9,14 @@ use App\Models\Article;
 use App\Models\Agenda;
 use App\Models\Announcement;
 
-class MapsController extends Controller
+class CultureController extends Controller
 {
     public function index(){
       try{
         $announcement = Announcement::where('status', 'show')->latest()->limit(5)->get();
         $article = Article::where('status', 'show')->latest()->limit(5)->get();
         $agenda = Agenda::where('status', 'show')->latest()->limit(5)->get();
-        return view('public.profil.maps.list', compact('article', 'agenda', 'announcement'));
+        return view('public.wisata.culture.list', compact('article', 'agenda', 'announcement'));
       }catch(\Exception $e){
         $error = $e->getMessage();
         return redirect()->back()->with(['error'=>$error]);
