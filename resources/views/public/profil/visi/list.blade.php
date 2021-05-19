@@ -31,9 +31,13 @@
                     <h1 class="heading__title">Visi Misi</h1>
                         <p style="text-align: left; font-size: 20px">
                         1. Mewujudkan pemerintahan yang bersih dari korupsi, kolusi dan nepotisme, terbuka, serta pelayanan masyarakat; <br>
+                        </br>
                         2. Meningkatkan Pembangunan Infrastruktur, penataan ruang berkarakter kebudayaan lokal dan pemerataan pembangunan perdesaan; <br>
+                        </br>
                         3. Meningkatkan kualitas pendidikan untuk menciptakan sumber daya manusia yang handal dan berdaya saing serta perluasan lapangan kerja; <br>
+                        </br>
                         4. Meningkatnya kesejahteraan masyarakat melalui pembangunan bidang pertanian, ekonomi kerakyatan, industri kreatif, perikanan dan kelautan, serta pengalian potensi berbasis budaya dan kearifan lokal; <br>
+                        </br>
                         5. Meningkatkan kualitas layanan kesehatan masyarakat dan lingkungan hidup. 
                         </p>
                 </div>

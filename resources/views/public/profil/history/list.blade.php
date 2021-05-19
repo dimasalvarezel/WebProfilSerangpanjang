@@ -31,10 +31,15 @@
                     <h1 class="heading__title">Sejarah Kecamatan Serangpanjang</h1>
                         <p style="text-align: left; font-size: 20px">
                             1. Undang-Undang Nomor  14 Tahun 1950 tentang Pembentukan Daerah-Daerah Kabupaten Dalam Lingkungan Propinsi Djawa Barat.<br>
+                            </br>
                             2. Undang-Undang Nomor 5 Tahun 2014 tentang Aparatur Sipil Negara.<br>
+                            </br>
                             3. Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah sebagaimana telah diubah beberapa kali, terakhir dengan Undang-Undang Nomor 9 Tahun 2015 tentang Perubahan Kedua Atas Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah;<br>
+                            </br>
                             4. Peraturan Pemerintah Nomor 18 Tahun 2016 tentang Perangkat Daerah;<br>
+                            </br>
                             5. Peraturan Daerah Kabupaten Subang Nomor 7 Tahun 2016, tentang Pembentukan dan Susunan Perangkat Daerah Kabupaten Subang;<br>
+                            </br>
                             6. Peraturan Bupati Subang Nomor 34 Tahun 2016, tentang Susunan Organisasi Perangkat Daerah Kecamatan.
                         </p>
                 </div>

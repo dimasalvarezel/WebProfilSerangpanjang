@@ -26,9 +26,23 @@
 
         <div class="col-sm-12 col-md-12 col-lg-8">
             <div class="list-group">
-                <span style="font-weight:bold;"><h4>- Belum ada data -</h4></span>            
+              <li class="list-group-item list-group-item-action d-flex justify-content align-items-start">
+                <div class="list-content col-md-4 col-sm-4">
+                  <img src="{{asset('assets/img/Lapangan_bola.jpg')}}" class="img-fluid">
+                </div>
+                <div class="ms-2 me-auto">
+                  <div class="d-flex w-100 justify-content">
+                    <h5 class="mb-1">Lapangan Bola</h5>
+                  </div>
+                  <p class="mb-1">
+                    Alamat :-<br>
+                    Waktu Buka :-<br>
+                  </p>
+                  <a href="#" target="_blank">Lihat di Google Maps</a>
+                </div>
+              </li>
             </div>
-          </div>
+        </div>
 
           <div class="col-sm-12 col-md-12 col-lg-4">
             <aside class="sidebar sidebar-wide">

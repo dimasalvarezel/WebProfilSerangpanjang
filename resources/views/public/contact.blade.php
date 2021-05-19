@@ -24,8 +24,8 @@
               <div class="contact__banner align-v-h bg-overlay">
                 <div class="bg-img"><img src="{{asset('frontend/images/page-titles/background kontak kami.jpg')}}" alt="background"></div>
                 <div class="heading text-center">
-                  <div class="heading__shape heading__shape-white"></div>
-                  <h2 class="heading__title color-white">Silahkan Kirim Kritik/Saran/Keluhan Anda.</h2>
+                  <div class="heading__shape heading__shape-black"></div>
+                  <h2 class="heading__title color-black">Silahkan Kirim Kritik/Saran/Keluhan Anda.</h2>
                   <div class="divider__line divider__white"></div>
                 </div><!-- /.heading -->
               </div><!-- /.contact-banner -->
