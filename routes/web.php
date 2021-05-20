@@ -48,6 +48,7 @@ Route::prefix('admin')->namespace('Backend')->group(function () {
     //group route with middleware "auth" for "admin"
     Route::group(['middleware' => ['auth']], function() {
         //route dashboard
+        Route::get('/login', [DashboardController::class, 'formlogin'])->name('admin.login');
         Route::get('/dashboard', [DashboardController::class, 'index'])->name('admin.dashboard.index');
         //route Agenda
         Route::get('/agenda', [AgendaController::class, 'index'])->name('admin.agenda.list');
